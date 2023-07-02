@@ -19,3 +19,18 @@ This Go program reads subdomains from two files, merges them into a single list,
 
    ```shell
    go run main.go
+   
+The merged and sorted subdomains will be written to merged.txt in the current directory.
+License
+This project is licensed under the MIT License.
+
+Feel free to modify and use the code according to your needs.
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+Acknowledgments
+This program was created using the Go programming language.
+
+Contact
+If you have any questions or need further assistance, feel free to contact me.
